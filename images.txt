@@ -1,1 +1,1 @@
-milvusdb/milvus:master-20241111-83d2729f-amd64
+milvusdb/milvus:master-20241111-31d0c84f-gpu-amd64
